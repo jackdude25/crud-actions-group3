@@ -7,6 +7,30 @@
       "color": "orange",
       "id": "0124081a-4daa-425a-bb40-d5c016893fe3",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Risus quis varius quam quisque. Quis risus sed vulputate odio. Ultrices eros in cursus turpis. Est velit egestas dui id ornare arcu. Sem fringilla ut morbi tincidunt augue interdum velit euismod. Dictumst quisque sagittis purus sit amet volutpat. Sed libero enim sed faucibus turpis in eu. Dui vivamus arcu felis bibendum ut tristique et egestas."
+    },
+    {
+      "name": "Hiking Boots",
+      "price": "75.00",
+      "quantity": "5",
+      "description": "",
+      "color": "Brown",
+      "id": "ed25d2b7-4039-4e5c-b9c7-ed54a44947c3"
+    },
+    {
+      "name": "Kayak",
+      "price": "300.00",
+      "quantity": "3",
+      "description": "Float",
+      "color": "Blue",
+      "id": "cf6813f4-743d-4524-9eab-be2658bbc785"
+    },
+    {
+      "name": "sssssssssssssssssssssssssssssssssssssssssssssssssss",
+      "price": "",
+      "quantity": "",
+      "description": "",
+      "color": "",
+      "id": "cc14ed60-04ff-4916-a128-01bce46b427f"
     }
   ]
 }

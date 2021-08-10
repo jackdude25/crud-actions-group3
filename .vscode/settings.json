@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b9afd70f-dd3a-406c-b8a5-d739ddacfb85/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/js-crud-actions-group3",
+    "appService.deploySubpath": "."
+}
