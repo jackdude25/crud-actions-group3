@@ -5,5 +5,5 @@ document.getElementById("delete").onclick = function(){
   
 
 function processResult() {
-  window.alert("Product delete :)");
+  window.alert("Product deleting...");
 }
