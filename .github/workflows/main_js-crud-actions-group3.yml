@@ -38,7 +38,7 @@ jobs:
     needs: build
     environment:
       name: 'production'
-      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+      url: 'https://js-crud-actions-group3.azurewebsites.net/'
 
     steps:
     - name: Download artifact from build job
